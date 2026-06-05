@@ -14,7 +14,7 @@ This project was done on MySQL Workbench server 2022
 ## Data Visualization
 Data visualization was done in Microsoft Power BI
 
-https://github.com/piyushyadav9660511797-lgtm/Pizza-Sales-Portfolio-Project-SQL-Power-BI/blob/main/1%20.png
+![pizza-sales-report](https://github.com/piyushyadav9660511797-lgtm/Pizza-Sales-Portfolio-Project-SQL-Power-BI/blob/main/1%20.png)
 
 https://github.com/piyushyadav9660511797-lgtm/Pizza-Sales-Portfolio-Project-SQL-Power-BI/blob/main/2.png
 
