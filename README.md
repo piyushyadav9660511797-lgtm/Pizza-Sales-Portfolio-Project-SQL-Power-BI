@@ -1,15 +1,15 @@
 # Pizza-Sales-Portfolio-Project-SQL-Power-BI
+
 The raw data for this project is presented in 4 CSV files. This data represents a year’s worth of sales for a pizza outlet, and they need to answer a few questions which will help them make important decisions to increase sales and improve their business.
 
-The project is done in MySQL server and presented in Power BI. The data was loaded into 4 tables. This project involves the use of simple joins and sub-queries. 
+The project is done in MySQL Workbench server and presented in Power BI. The data was loaded into 4 tables. This project involves the use of simple joins and sub-queries. 
 
 ## Data source:
-You can download the data from https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 
-A zip file is also included in this repository.
+Zip files are included in this repository.
 
 ## Data Analysis
-This project was done on SQL server 2022
+This project was done on MySQL Workbench server 2022
 
 ## Data Visualization
 Data visualization was done in Microsoft Power BI
